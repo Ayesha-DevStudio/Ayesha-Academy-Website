@@ -8,7 +8,7 @@ A fully responsive front-end website for an online educational academy, built us
 
 This project was created to practice and demonstrate front-end web development skills, particularly **Bootstrap components, responsive layouts, carousels, accordions, cards, navigation bars, and custom CSS styling**.
 
-🚀 **[Click here to view the live website](#)**
+🚀 **[Click here to view the live website](https://ayesha-academy.netlify.app/)**
 
 ## ✨ Features
 
@@ -57,7 +57,7 @@ This project is part of my **web development learning journey** and demonstrates
 
 ## 🌐 Live Demo
 
-**Live Website:** [View Ayesha's Academy Website](#)
+**Live Website:** [View Ayesha's Academy Website](https://ayesha-academy.netlify.app/)
 
 ## 👩‍💻 Author
 
